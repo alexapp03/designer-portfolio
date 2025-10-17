@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #e4252c;
+  --primary-dark-color: #1d1d1b;
+  --secondary-background-color: #e7e7e8;
+  --text-color: #ffffff;
+
+  --xs-mobile-bp: 480px;
+  --mobile-bp: 600px;
+  --tablet-bp: 900px;
+
+  --regular-font-size: 30px;
+  --large-font-size: 105px;
+}
