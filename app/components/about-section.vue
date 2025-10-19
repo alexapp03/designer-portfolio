@@ -1,5 +1,5 @@
 <template>
-  <section class="about">
+  <section id="about-me" class="about">
     <div class="container about-content">
       <article class="description">
         <h2 class="section-title">Hello!</h2>

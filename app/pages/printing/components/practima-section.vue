@@ -1,5 +1,5 @@
 <template>
-  <section class="printing-section">
+  <section id="practima" class="printing-section">
     <div class="container">
       <h2 class="printing-section-title">Projects for Practima. PDF</h2>
       <div class="printing-section-content">
