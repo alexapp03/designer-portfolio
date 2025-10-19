@@ -5,6 +5,19 @@ export default defineNuxtConfig({
   modules: ["@nuxt/eslint", "@nuxt/image", "@nuxt/ui"],
   app: {
     head: {
+      htmlAttrs: {
+        lang: "en",
+      },
+      title: "Designer Portfolio",
+      meta: [
+        { charset: "utf-8" },
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        {
+          name: "description",
+          content:
+            "Professional design portfolio showcasing brand identity, illustration, and printing projects",
+        },
+      ],
       link: [
         {
           rel: "preconnect",
@@ -13,11 +26,7 @@ export default defineNuxtConfig({
         {
           rel: "preconnect",
           href: "https://fonts.gstatic.com",
-          crossorigin: "",
-        },
-        {
-          rel: "stylesheet",
-          href: "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap",
+          crossorigin: "anonymous",
         },
       ],
     },

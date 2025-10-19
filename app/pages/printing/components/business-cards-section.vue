@@ -1,5 +1,5 @@
 <template>
-  <section class="printing-section">
+  <section id="bussiness-cards" class="printing-section">
     <div class="container">
       <h2 class="printing-section-title">Business cards</h2>
       <div class="printing-section-content">

@@ -1,5 +1,5 @@
 <template>
-  <section class="printing-section">
+  <section id="banners" class="printing-section">
     <div class="container">
       <h2 class="printing-section-title">Other products</h2>
       <div class="printing-section-content">

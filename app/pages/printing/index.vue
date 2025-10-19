@@ -25,6 +25,7 @@
       <other-products-section />
       <banners-section />
       <design-menu-section />
+      <practima-section />
     </div>
   </section>
 </template>
@@ -43,6 +44,7 @@ import postersForExhibitionSection from "./components/posters-for-exhibition-sec
 import promotionSection from "./components/promotion-section.vue";
 import otherProductsSection from "./components/other-products-section.vue";
 import bannersSection from "./components/banners-section.vue";
+import practimaSection from "./components/practima-section.vue";
 
 // Set page title
 useHead({

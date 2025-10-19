@@ -56,6 +56,13 @@
                 loading="lazy"
               />
             </div>
+            <div class="grid-item">
+              <img
+                src="~assets/images/printing/other-products/image8.png"
+                alt="Image 7"
+                loading="lazy"
+              />
+            </div>
           </div>
         </div>
       </div>
@@ -75,6 +82,12 @@
 .left-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  gap: 21px;
+}
+
+.right-grid {
+  display: grid;
+  grid-template-columns: 1fr;
   gap: 21px;
 }
 
