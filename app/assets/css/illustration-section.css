@@ -1,0 +1,30 @@
+.illustration-section {
+  background-color: var(--secondary-background-color);
+  min-height: 100vh;
+}
+
+.illustration-section:first-child {
+  padding-top: 100px;
+}
+
+.illustration-section-title {
+  font-size: clamp(20px, 3vw, var(--regular-font-size));
+  color: var(--primary-dark-color);
+  font-weight: 700;
+}
+
+.illustration-grid {
+  margin-top: 30px;
+  display: grid;
+  gap: 21px;
+}
+
+.grid-item {
+  border-radius: 36px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.grid-item:hover {
+  transform: translateY(-4px);
+}

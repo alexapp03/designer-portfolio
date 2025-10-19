@@ -18,7 +18,12 @@
       <advertising1-section />
       <advertising2-section />
       <advertising3-section />
+      <advertising4-section />
+      <posters-for-exhibition-section />
+      <promotion-section />
       <business-cards-section />
+      <other-products-section />
+      <banners-section />
       <design-menu-section />
     </div>
   </section>
@@ -31,8 +36,13 @@ import advertisingMenuHoldersSection from "./components/advertising-menu-holders
 import advertising1Section from "./components/advertising1-section.vue";
 import advertising2Section from "./components/advertising2-section.vue";
 import advertising3Section from "./components/advertising3-section.vue";
+import advertising4Section from "./components/advertising4-section.vue";
 import businessCardsSection from "./components/business-cards-section.vue";
 import designMenuSection from "./components/design-menu-section.vue";
+import postersForExhibitionSection from "./components/posters-for-exhibition-section.vue";
+import promotionSection from "./components/promotion-section.vue";
+import otherProductsSection from "./components/other-products-section.vue";
+import bannersSection from "./components/banners-section.vue";
 
 // Set page title
 useHead({

@@ -10,4 +10,5 @@
 @import "~/assets/css/page.css";
 @import "~/assets/css/brand-identity-section.css";
 @import "~/assets/css/printing-section.css";
+@import "~/assets/css/illustration-section.css";
 </style>

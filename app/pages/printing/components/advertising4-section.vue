@@ -1,26 +1,28 @@
 <template>
   <section class="printing-section">
     <div class="container">
-      <h2 class="printing-section-title">A4 Advertising Menu holders/posters</h2>
+      <h2 class="printing-section-title">
+        A4 Advertising Menu holders/posters
+      </h2>
       <div class="printing-section-content">
         <div class="printing-grid">
           <div class="grid-item">
             <img
-              src="~assets/images/printing/advertising2/image1.png"
+              src="~assets/images/printing/advertising4/image1.png"
               alt="Image 1"
               loading="lazy"
             />
           </div>
           <div class="grid-item">
             <img
-              src="~assets/images/printing/advertising2/image2.png"
+              src="~assets/images/printing/advertising4/image2.png"
               alt="Image 2"
               loading="lazy"
             />
           </div>
           <div class="grid-item">
             <img
-              src="~assets/images/printing/advertising2/image3.png"
+              src="~assets/images/printing/advertising4/image3.png"
               alt="Image 3"
               loading="lazy"
             />

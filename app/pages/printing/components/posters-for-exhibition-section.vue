@@ -1,27 +1,22 @@
 <template>
   <section class="printing-section">
     <div class="container">
-      <h2 class="printing-section-title">A4 Advertising Menu holders/posters</h2>
+      <h2 class="printing-section-title">
+        Posters for Exhibition “The Voices of Ukrainian Poetry”
+      </h2>
       <div class="printing-section-content">
         <div class="printing-grid">
           <div class="grid-item">
             <img
-              src="~assets/images/printing/advertising2/image1.png"
+              src="~assets/images/printing/posters-for-exhibition/image1.png"
               alt="Image 1"
               loading="lazy"
             />
           </div>
           <div class="grid-item">
             <img
-              src="~assets/images/printing/advertising2/image2.png"
+              src="~assets/images/printing/posters-for-exhibition/image2.png"
               alt="Image 2"
-              loading="lazy"
-            />
-          </div>
-          <div class="grid-item">
-            <img
-              src="~assets/images/printing/advertising2/image3.png"
-              alt="Image 3"
               loading="lazy"
             />
           </div>
@@ -37,12 +32,18 @@
 <script setup lang="ts"></script>
 <style scoped>
 .printing-grid {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 2fr 1fr;
 }
 
 @media (max-width: 900px) {
   .printing-grid {
     grid-template-columns: 1fr;
+  }
+
+  .grid-item:last-child img {
+    display: block;
+    max-height: 768px;
+    margin: 0 auto;
   }
 }
 </style>

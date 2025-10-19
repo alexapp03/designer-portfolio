@@ -1,7 +1,7 @@
 <template>
   <section class="printing-section">
     <div class="container">
-      <h2 class="printing-section-title">Advertising</h2>
+      <h2 class="printing-section-title">A4 Advertising Menu holders/posters</h2>
       <div class="printing-section-content">
         <div class="printing-grid">
           <div class="grid-item">
