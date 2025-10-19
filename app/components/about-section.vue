@@ -35,7 +35,7 @@
         />
         <img
           class="portrait-photo"
-          src="~assets/images/designer.png"
+          src="~assets/images/designer.webp"
           loading="lazy"
           alt="A picture of Darina Yakimenko"
         />
