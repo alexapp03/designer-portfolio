@@ -1,5 +1,6 @@
 <template>
   <NuxtPage />
+  <FooterBlock />
   <div class="fixed-controls">
     <nuxt-link class="link-primary link" to="/#resume">Resume</nuxt-link>
     <nuxt-link class="link-secondary link" to="/#about-me">Contacts</nuxt-link>

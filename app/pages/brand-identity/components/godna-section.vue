@@ -4,7 +4,7 @@
     <div class="container">
       <div class="brand-identity-section-content">
         <div class="section-content-left">
-          <h2 class="section-title">GODNA</h2>
+          <h2 class="brand-identity-section-title">GODNA</h2>
           <p class="brand-identity-text">
             GODNA is a Ukrainian clothing brand focused on minimalist essentials
             with subtle reinterpretations of ethnographic motifs. The identity

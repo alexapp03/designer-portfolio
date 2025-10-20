@@ -17,6 +17,7 @@
     <div class="brand-identity-content">
       <godna-section />
       <edu-art-section />
+      <la-femme-fatale-section />
     </div>
   </section>
 </template>
@@ -24,6 +25,7 @@
 <script lang="ts" setup>
 import godnaSection from "./components/godna-section.vue";
 import eduArtSection from "./components/edu-art-section.vue";
+import laFemmeFataleSection from "./components/la-femme-fatale-section.vue";
 
 // Set page title
 useHead({

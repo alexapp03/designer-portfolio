@@ -83,6 +83,25 @@
               </div>
             </div>
           </div>
+          <div class="resume-block languages">
+            <div class="resume-block-header">
+              <div class="resume-icon-wrapper">
+                <icon-language></icon-language>
+              </div>
+              <h3 class="resume-block-title">Languages</h3>
+            </div>
+            <div class="resume-block-content line-with-dots">
+              <div class="resume-content-item">
+                <strong>English</strong> - B2
+              </div>
+              <div class="resume-content-item">
+                <strong>Ukrainian</strong> - native
+              </div>
+              <div class="resume-content-item">
+                <strong>Spanish</strong> - A2
+              </div>
+            </div>
+          </div>
         </div>
         <div class="resume-content-right">
           <div class="resume-block education">
@@ -90,7 +109,7 @@
               <div class="resume-icon-wrapper"><icon-book></icon-book></div>
               <h3 class="resume-block-title">Education</h3>
             </div>
-            <div class="resume-block-content">
+            <div class="resume-block-content line-with-dots">
               <div class="resume-content-item">
                 <h6>Junior specialist</h6>
                 <p>KNUTD Professional College of Arts and Design</p>
@@ -113,33 +132,48 @@
               <div class="resume-icon-wrapper"><icon-pen></icon-pen></div>
               <h3 class="resume-block-title">Abilities</h3>
             </div>
-            <div class="resume-block-content">
+            <div class="resume-block-content line-with-dots">
               <div class="resume-content-item">
-                <p>Creative thinking;</p>
-                <p>Sociability;</p>
-                <p>Ability to learn quickly;</p>
-                <p>Willingness to self-improvement;</p>
-                <p>Ability to work in a team;</p>
-                <p>Ambition.</p>
-              </div>
-            </div>
-          </div>
-          <div class="resume-block languages">
-            <div class="resume-block-header">
-              <div class="resume-icon-wrapper">
-                <icon-language></icon-language>
-              </div>
-              <h3 class="resume-block-title">Languages</h3>
-            </div>
-            <div class="resume-block-content">
-              <div class="resume-content-item">
-                <strong>English</strong> - B2
+                <h6>PC:</h6>
+                <p>
+                  Knowledge of Adobe Photoshop, Illustrator, Lightroom, Figma,
+                  Indesign After Effects (basic),Corel Draw
+                </p>
               </div>
               <div class="resume-content-item">
-                <strong>Ukrainian</strong> - native
+                <h6>Printing:</h6>
+                <p>
+                  Design of brochures, leaflets, certificates, collages,
+                  pre-press preparation.
+                </p>
               </div>
               <div class="resume-content-item">
-                <strong>Spanish</strong> - A2
+                <h6>Brand Identity:</h6>
+                <p>
+                  Development of logos, brand books, business cards, letterheads
+                </p>
+              </div>
+              <div class="resume-content-item">
+                <h6>Advertising:</h6>
+                <p>
+                  Design of presentations, contextual advertising banners,
+                  content design for social networks.
+                </p>
+              </div>
+              <div class="resume-content-item">
+                <h6>Design:</h6>
+                <p>
+                  Basics of composition and typography, color theory, basics of
+                  branding, freehand drawing.
+                </p>
+              </div>
+              <div class="resume-content-item">
+                <h6>Personal qualities:</h6>
+                <p>
+                  Communicative skills, аbility to learn quickly, willingness to
+                  improve oneself, ability to work in a team, ambition, creative
+                  thinking;
+                </p>
               </div>
             </div>
           </div>

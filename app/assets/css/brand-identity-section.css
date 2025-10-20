@@ -4,6 +4,13 @@
   min-height: 100vh;
 }
 
+.brand-identity-section-title {
+  font-size: clamp(20px, 3vw, var(--regular-font-size));
+  color: var(--primary-dark-color);
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
 .brand-identity-section-content {
   display: flex;
   justify-content: space-between;

@@ -4,7 +4,7 @@
     <div class="container">
       <div class="brand-identity-section-content">
         <div class="section-content-left">
-          <h2 class="section-title">EduArt</h2>
+          <h2 class="brand-identity-section-title">EduArt</h2>
           <p class="brand-identity-text">
             Development of a vibrant and playful identity for EduArt — an
             educational and art-focused initiative that celebrates creativity,

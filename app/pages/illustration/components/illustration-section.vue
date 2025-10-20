@@ -170,7 +170,7 @@
 
 @media (max-width: 900px) {
   .illustration-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 }
 </style>
