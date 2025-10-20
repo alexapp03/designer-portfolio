@@ -38,19 +38,23 @@
   background: var(--primary-color);
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 10px 0;
   border-radius: 10px;
   cursor: pointer;
   font-size: 16px;
+  min-width: 100px;
+  text-align: center;
 }
 
 .link-secondary {
   background: var(--primary-dark-color);
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 10px 0;
   border-radius: 10px;
   cursor: pointer;
   font-size: 16px;
+  min-width: 100px;
+  text-align: center;
 }
 </style>
